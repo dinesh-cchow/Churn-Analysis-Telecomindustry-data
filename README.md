@@ -1,5 +1,5 @@
 # Churn-Analysis-Telecomindustry-data
-Figuring out Which Customer May leave from machine learning and Deep Learning Algorithms. Also Comparing the Model against Each other to find out the Best Suitable Model
+Figuring out Which Customer May leave from Telecom-Industry using machine learning and Deep Learning Algorithms. Also Comparing the Model against Each other to find out the Best Suitable Model
 Understanding the problem to Figure out which customer may leave the Telecom industry considering various features and their Importance
 To understand the Deeper roots of the data and their features(How they behave) we have to do a very good Exploratory Data Analaysis & Visualizations.
 Data Preprcoessing is very necessary before proceeding to Train our Model removing the unnecessary and irrelevant data(Messy data) from the data sets and making the data ready for Training
